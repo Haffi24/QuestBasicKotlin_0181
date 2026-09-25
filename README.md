@@ -39,6 +39,24 @@ CLASS:
 Data Classes (Print, Compare, Copy):
 <img width="1920" height="1200" alt="Screenshot (799)" src="https://github.com/user-attachments/assets/aa9ddf3f-8839-432f-889e-e22d2ba33567" />
 
+NULLABLE TYPES: 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e086344f-8dc6-4531-8433-66c22a403b85" />
+
+Check for null types:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1f7652ac-5fbf-4477-9705-ab95bf6dee7b" />
+
+safe call:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f13687d6-f22b-4a93-93d8-fe8bdadd48bc" />
+
+elvis operator:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0b695441-4833-4995-851d-07728fbd6ca7" />
+
+
+
+
+
+
+
 
 
 
