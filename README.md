@@ -16,3 +16,14 @@ COLLECTION :
 <img width="1920" height="1200" alt="Map" src="https://github.com/user-attachments/assets/1291c75e-8626-441d-8453-3e7a4b9f5d3d" />
 <img width="1920" height="1200" alt="Set" src="https://github.com/user-attachments/assets/5287de6b-a1b5-424d-80ec-2ad44e5a7c3d" />
 
+
+Conditional expressions:
+
+
+<img width="1920" height="1200" alt="if express" src="https://github.com/user-attachments/assets/26be2a69-c3f7-49c7-97d8-dda2e36b230c" />
+<img width="1920" height="1200" alt="when express" src="https://github.com/user-attachments/assets/92f5b5df-90c0-4346-b525-e9a4caccd7ae" />
+<img width="1920" height="1200" alt="For loops dan range" src="https://github.com/user-attachments/assets/6fbd3910-f61d-4aeb-9e53-e2eb71f4d3e4" />
+
+
+
+
