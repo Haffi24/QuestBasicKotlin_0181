@@ -25,5 +25,14 @@ Conditional expressions:
 <img width="1920" height="1200" alt="For loops dan range" src="https://github.com/user-attachments/assets/6fbd3910-f61d-4aeb-9e53-e2eb71f4d3e4" />
 
 
+Functions:
+
+
+<img width="1920" height="1200" alt="fungction without returns" src="https://github.com/user-attachments/assets/b5f591c1-31a3-4454-8e08-90786eace2f4" />
+<img width="1920" height="1200" alt="default paramater values" src="https://github.com/user-attachments/assets/6a220f0c-f5a0-4cf6-ab1c-ef6a8bcdd3bd" />
+<img width="1920" height="1200" alt="named arguments" src="https://github.com/user-attachments/assets/ceb262a5-cd6c-4b65-989f-67eea50ba0fa" />
+
+
+
 
 
