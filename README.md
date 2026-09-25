@@ -33,6 +33,14 @@ Functions:
 <img width="1920" height="1200" alt="named arguments" src="https://github.com/user-attachments/assets/ceb262a5-cd6c-4b65-989f-67eea50ba0fa" />
 
 
+CLASS:
+<img width="1920" height="1200" alt="Screenshot (798)" src="https://github.com/user-attachments/assets/dc9bd4a4-6fa7-48b3-ac20-0f1177c8bda7" />
+
+Data Classes (Print, Compare, Copy):
+<img width="1920" height="1200" alt="Screenshot (799)" src="https://github.com/user-attachments/assets/aa9ddf3f-8839-432f-889e-e22d2ba33567" />
+
+
+
 
 
 
